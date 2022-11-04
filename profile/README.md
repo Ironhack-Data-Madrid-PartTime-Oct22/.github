@@ -15,7 +15,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 26-Oct  |  git & configuración ordenadores |   
     | Sábado 29-Oct  | Tipos de datos & Estructuras de datos  |  
 
-  - Semana 2
+  - [Semana 2](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-2)
 
     | Día  |  Temario |  
     |---|---|
