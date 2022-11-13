@@ -32,7 +32,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Sábado 12-Nov | Numpy  |  
 
 
-  - Semana 4
+  - [Semana 4](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-4)
 
     | Día  |  Temario |  
     |---|---|
