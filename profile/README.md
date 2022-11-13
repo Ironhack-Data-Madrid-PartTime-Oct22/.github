@@ -23,7 +23,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 2-Nov  | *Control Flow* & *List comprehension* |   
     | Sábado 29-Oct  | Funciones & Lambdas  |  
 
-  - Semana 3
+  - [Semana 3](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-3)
 
     | Día  |  Temario |  
     |---|---|
