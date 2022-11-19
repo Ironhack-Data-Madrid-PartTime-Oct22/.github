@@ -37,5 +37,29 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Día  |  Temario |  
     |---|---|
     | Lunes 14-Nov| Pandas |   
-    | Miércoles 16-Nov | Concat, Merge & Join|   
-    | Sábado 19-Nov | Visualización  |  
+    | Miércoles 16-Nov | Más Pandas|   
+    | Sábado 19-Nov | Ejercicio Pandas  |  
+
+ - [Semana 5]
+
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 21-Nov| Concat-Merge-Join |   
+    | Miércoles 23-Nov | Regex|   
+    | Sábado 26-Nov | Visualización  |  
+
+ - [Semana 6]
+
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 28-Nov| Mongo |   
+    | Miércoles 30-Nov | SQL Intro|   
+    | Sábado 3-Dic | SQL Queries Básicas  |  
+
+  - [Semana 7]
+
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 5-Dic| No hay clase |   
+    | Miércoles 7-Dic | No hay clase|   
+    | Sábado 3-Dic | SQL Alquemy  |  
