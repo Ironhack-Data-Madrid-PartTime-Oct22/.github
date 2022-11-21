@@ -40,7 +40,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 16-Nov | Más Pandas|   
     | Sábado 19-Nov | Ejercicio Pandas  |  
 
- - [Semana 5](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-5)
+  - [Semana 5](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-5)
 
     | Día  |  Temario |  
     |---|---|
@@ -48,7 +48,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 23-Nov | Regex|   
     | Sábado 26-Nov | Visualización  |  
 
- - [Semana 6]
+  - [Semana 6]
 
     | Día  |  Temario |  
     |---|---|
