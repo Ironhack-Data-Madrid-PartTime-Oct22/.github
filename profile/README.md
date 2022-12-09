@@ -48,15 +48,15 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 23-Nov | Regex|   
     | Sábado 26-Nov | Visualización  |  
 
-  - [Semana 6]
+  - [Semana 6](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-6)
 
     | Día  |  Temario |  
     |---|---|
     | Lunes 28-Nov| Mongo |   
     | Miércoles 30-Nov | SQL Intro|   
-    | Sábado 3-Dic | SQL Queries Básicas  |  
+    | Sábado 3-Dic | SQL Queries Básicas y Joins |  
 
-  - [Semana 7]
+  - [Semana 7](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-7/7.1-SQL-Alquemy)
 
     | Día  |  Temario |  
     |---|---|
