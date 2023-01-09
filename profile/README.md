@@ -70,8 +70,8 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     |---|---|
     | Lunes 12-Dic| SQL |   
     | Miércoles 14-Dic | API's|
-    | Jueves 15-Dic | No hay clase|     
-    | Sábado 17-Dic | SQL Alquemy  |  
+    | Jueves 15-Dic | Web Scrapping - Beautiful Soup|     
+    | Sábado 17-Dic | Web Scrapping - Selenium  |  
 
      - [Semana 9](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-9)
 
