@@ -56,10 +56,28 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 30-Nov | SQL Intro|   
     | Sábado 3-Dic | SQL Queries Básicas y Joins |  
 
-  - [Semana 7](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-7/7.1-SQL-Alquemy)
+  - [Semana 7](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-7)
 
     | Día  |  Temario |  
     |---|---|
     | Lunes 5-Dic| No hay clase |   
     | Miércoles 7-Dic | No hay clase|   
-    | Sábado 3-Dic | SQL Alquemy  |  
+    | Sábado 10-Dic | SQL Alquemy  |  
+
+   - [Semana 8](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-8)
+
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 12-Dic| SQL |   
+    | Miércoles 14-Dic | API's|
+    | Jueves 15-Dic | No hay clase|     
+    | Sábado 17-Dic | SQL Alquemy  |  
+
+     - [Semana 9](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-9)
+
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 19-Dic| ETL Limpieza de datos |   
+    | Martes 20-Dic | ETL Enriquecimiento de datos|
+    | Miercóles 21-Dic | ETL Visualización de datos|     
+    | Sábado 24-Dic | No hay clase  |  
