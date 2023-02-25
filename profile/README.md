@@ -133,7 +133,8 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Sábado 18-Feb | Proyecto Tableau  | 
 
 - MÓDULO 3
- - [Semana 16](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-16)
+  
+   - [Semana 16](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-16)
     
     | Día  |  Temario |  
     |---|---|
