@@ -81,3 +81,61 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Martes 20-Dic | ETL Enriquecimiento de datos|
     | Miercóles 21-Dic | ETL Visualización de datos|     
     | Sábado 24-Dic | No hay clase  |  
+
+
+     - [Semana 10]()
+
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 9-Ene| Proyecto |   
+    | Miercóles 11-Ene| Proyecto|     
+    | Sábado 14-Ene | Proyecto  | 
+
+    - [Semana 11]()
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 16-Ene| Proyecto |   
+    | Miercóles 18-Ene| Proyecto|     
+    | Sábado 21-Ene | Proyecto  | 
+
+    - [Semana 12](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-12/Streamlit)
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 23-Ene| Presentación de Proyectos |   
+    | Miercóles 25-Ene| API Spotify|     
+    | Sábado 28-Ene | Streamlit  | 
+
+    - [Semana 13]()
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 30-Ene| Tableau |   
+    | Miercóles 1-Feb| Tableau|     
+    | Sábado 4-Feb | Tableau  | 
+
+  - [Semana 14]()
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 6-Feb| Proyecto Tableau |   
+    | Miercóles 8-Feb| Proyecto Tableau|     
+    | Sábado 11-Feb | Proyecto Tableau  | 
+
+  - [Semana 15]()
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 13-Feb| Proyecto Tableau |   
+    | Miercóles 15-Feb| Proyecto Tableau|     
+    | Sábado 18-Feb | Proyecto Tableau  | 
+
+ - [Semana 16](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-16)
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 20-Feb| Intro a Estadística |   
+    | Miercóles 22-Feb| Repaso Estadística|     
+    | Sábado 25-Feb | Tipos de Distribuciones  |
+  
