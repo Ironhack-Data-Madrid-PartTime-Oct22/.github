@@ -64,7 +64,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miércoles 7-Dic | No hay clase|   
     | Sábado 10-Dic | SQL Alquemy  |  
 
-   - [Semana 8](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-8)
+  - [Semana 8](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-8)
 
     | Día  |  Temario |  
     |---|---|
@@ -73,7 +73,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Jueves 15-Dic | Web Scrapping - Beautiful Soup|     
     | Sábado 17-Dic | Web Scrapping - Selenium  |  
 
-     - [Semana 9](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-9)
+  - [Semana 9](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-9)
 
     | Día  |  Temario |  
     |---|---|
@@ -83,7 +83,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Sábado 24-Dic | No hay clase  |  
 
 
-     - [Semana 10]()
+  - [Semana 10]()
 
     | Día  |  Temario |  
     |---|---|
@@ -91,7 +91,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miercóles 11-Ene| Proyecto|     
     | Sábado 14-Ene | Proyecto  | 
 
-    - [Semana 11]()
+  - [Semana 11]()
     
     | Día  |  Temario |  
     |---|---|
@@ -99,7 +99,8 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miercóles 18-Ene| Proyecto|     
     | Sábado 21-Ene | Proyecto  | 
 
-    - [Semana 12](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-12/Streamlit)
+- MÓDULO 2
+  - [Semana 12](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-12/Streamlit)
     
     | Día  |  Temario |  
     |---|---|
@@ -107,7 +108,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miercóles 25-Ene| API Spotify|     
     | Sábado 28-Ene | Streamlit  | 
 
-    - [Semana 13]()
+  - [Semana 13]()
     
     | Día  |  Temario |  
     |---|---|
@@ -131,6 +132,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miercóles 15-Feb| Proyecto Tableau|     
     | Sábado 18-Feb | Proyecto Tableau  | 
 
+- MÓDULO 3
  - [Semana 16](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-16)
     
     | Día  |  Temario |  
