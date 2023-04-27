@@ -141,4 +141,13 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Lunes 20-Feb| Intro a Estadística |   
     | Miercóles 22-Feb| Repaso Estadística|     
     | Sábado 25-Feb | Tipos de Distribuciones  |
+    
+    
+   - [Semana 17](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-17)
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 27-Feb| Exploracion y preprocesado |   
+    | Miercóles 1-Mar| Limpieza |     
+    | Sábado 4-Mar | Encoding, Normalizacion y Estandarizacion  |
   
