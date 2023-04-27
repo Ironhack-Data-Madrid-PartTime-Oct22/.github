@@ -151,3 +151,25 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
     | Miercóles 1-Mar| Limpieza |     
     | Sábado 4-Mar | Encoding, Normalizacion y Estandarizacion  |
   
+   - [Semana 18](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-18)
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 6-Mar| Ajuste de Modelo |   
+    | Miercóles 8-Mar| Desbalanceo de datos |     
+    | Miercóles 11-Mar| Datathon |     
+
+   - [Semana 19](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-19)
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 13-Mar| Regresión logistica |   
+    | Miercóles 15-Mar| Predicción |     
+    
+   - [Semana 20](https://github.com/Ironhack-Data-Madrid-PartTime-Oct22/apuntes-clases/tree/main/semana-20)
+    
+    | Día  |  Temario |  
+    |---|---|
+    | Lunes 22-Mar| Clustering|   
+    | Miercóles 25-Mar|  Sistemas de Recomendacion |     
+    | Miercóles 27-Mar| Series Temporales |     
